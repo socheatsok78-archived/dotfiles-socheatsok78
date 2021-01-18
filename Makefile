@@ -8,4 +8,4 @@ help:
 
 install:
 	@echo "socheatsok78: Installing apps..."
-	@brew bundle --file "Brewfile"
+	@brew bundle --file "Brewfile" -v
