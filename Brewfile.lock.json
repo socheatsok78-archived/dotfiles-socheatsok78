@@ -1,0 +1,109 @@
+{
+  "entries": {
+    "cask": {
+      "outline-manager": {
+        "version": "1.6.1",
+        "options": {
+          "full_name": "outline-manager"
+        }
+      },
+      "synergy": {
+        "version": "1.13.0,bdb8f767",
+        "options": {
+          "full_name": "synergy"
+        }
+      },
+      "notion": {
+        "version": "2.0.11",
+        "options": {
+          "full_name": "notion"
+        }
+      }
+    },
+    "mas": {
+      "Adblock": null,
+      "Affinity": null,
+      "Amphetamine": {
+        "id": "937984704",
+        "version": "5.1.1"
+      },
+      "Bear": {
+        "id": "1091189122",
+        "version": "1.8.2"
+      },
+      "Compressor": {
+        "id": "424390742",
+        "version": "4.5.1"
+      },
+      "Enpass": {
+        "id": "732710998",
+        "version": "6.5.2"
+      },
+      "GIPHY": null,
+      "Image2icon": {
+        "id": "992115977",
+        "version": "2.11"
+      },
+      "Keynote": {
+        "id": "409183694",
+        "version": "10.3.9"
+      },
+      "Magnet": {
+        "id": "441258766",
+        "version": "2.5.0"
+      },
+      "Messenger": {
+        "id": "1480068668",
+        "version": "83.5.128"
+      },
+      "Numbers": {
+        "id": "409203825",
+        "version": "10.3.9"
+      },
+      "Outline": {
+        "id": "1356178125",
+        "version": "1.4.0"
+      },
+      "Pages": {
+        "id": "409201541",
+        "version": "10.3.9"
+      },
+      "Server": {
+        "id": "883878097",
+        "version": "5.11"
+      },
+      "Shazam": {
+        "id": "897118787",
+        "version": "2.10.0"
+      },
+      "Slack": {
+        "id": "803453959",
+        "version": "4.12.2"
+      },
+      "Spark": {
+        "id": "1176895641",
+        "version": "2.9.15"
+      },
+      "Telegram": {
+        "id": "747648890",
+        "version": "7.3"
+      },
+      "Xcode": {
+        "id": "497799835",
+        "version": "12.3"
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "2.7.5",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "064549e7e3b464a2db682d91a9affe8db068a8c6",
+        "CLT": "12.3.0.0.1.1607026830",
+        "Xcode": "12.3",
+        "macOS": "11.1"
+      }
+    }
+  }
+}
