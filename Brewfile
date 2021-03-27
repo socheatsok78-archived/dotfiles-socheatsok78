@@ -2,6 +2,7 @@ cask 'outline-manager'
 cask 'synergy'
 cask 'notion'
 cask 'pixelsnap'
+cask 'keka'
 
 mas 'Adblock', id: 1432731683
 mas 'Affinity', id: 824171161
